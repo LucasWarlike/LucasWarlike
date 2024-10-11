@@ -1,6 +1,5 @@
 ### Olá, seja bem vindo. Eu sou o Lucas👋
 
-- Programador Web
 - Buscando sempre melhorar a cada dia 
 - Sou amante da tecnologia 
 
